@@ -169,7 +169,7 @@
             <div class="gallery-grid">
                 <!-- Пример элемента галереи -->
                 <div class="gallery-item">
-                    <img src="https://disk.360.yandex.ru/i/NYL4ZUJpu5tPHA" alt="Пример работы">
+                    <img src="https://sun9-32.userapi.com/impg/iVS5aL_BnHFNiWA7oevntTEGT6QysygYX1Hp3Q/DFbGmtugnuY.jpg?size=1280x628&quality=95&sign=0ce65ef9f16d5caf4240f7c1ef6f1b4c&type=album" alt="Пример работы">
                     <div class="item-info">
                         <h3>Название работы</h3>
                         <p>Автор: Имя Автора</p>
